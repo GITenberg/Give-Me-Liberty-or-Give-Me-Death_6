@@ -1,0 +1,28 @@
+_repo: Give-Me-Liberty-or-Give-Me-Death_6
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, Patrick
+    birthdate: 1736
+    deathdate: 1799
+    gutenberg_agent_id: '4'
+    url: http://www.gutenberg.org/2009/agents/4
+    wikipedia: http://en.wikipedia.org/wiki/Patrick_Henry
+description: ''
+gutenberg_bookshelf: American Revolutionary War
+gutenberg_issued: '1976-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1775-1783 -- Sources'
+- !lcsh 'Speeches, addresses, etc., American'
+- !lcsh 'Virginia -- Politics and government -- 1775-1783 -- Sources'
+- !lcc 'E201'
+- GITenberg
+title: Give Me Liberty or Give Me Death
+url: http://www.gutenberg.org/ebooks/6
